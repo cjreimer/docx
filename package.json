@@ -19,6 +19,7 @@
     ],
     "scripts": {
         "build": "tsc && vite build",
+        "prepare": "npm run build",
         "test": "vitest --ui --coverage",
         "test:ci": "vitest run --coverage",
         "prepublishOnly": "npm run build --omit=dev",
