@@ -1,3 +1,4 @@
+Manually edited to fix a type rollup issue
 <p align="center">
     <img src="./logo/logo-animate.svg" width="100%" height="300" alt="clippy the assistant">
 </p>
